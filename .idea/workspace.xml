@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8b20544-c878-4127-980e-c2b46b4a885c" name="Changes" comment="added test line 5">
+    <list default="true" id="a8b20544-c878-4127-980e-c2b46b4a885c" name="Changes" comment="put all the HTML code in a folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/informatie.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/informatie.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/navbar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/team.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Include/team.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/team.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +48,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nizar Elmorabit\PhpstormProjects\Groep5_Skyhigh\Include" />
+      <recent name="C:\Users\Nizar Elmorabit\PhpstormProjects\Groep5_Skyhigh" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
       <method v="2" />
@@ -78,7 +80,7 @@
       <workItem from="1686296194801" duration="61000" />
       <workItem from="1686296324514" duration="153000" />
       <workItem from="1686297678919" duration="48000" />
-      <workItem from="1686567960731" duration="300000" />
+      <workItem from="1686567960731" duration="471000" />
     </task>
     <task id="LOCAL-00001" summary="he">
       <created>1686218903396</created>
@@ -129,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686219656052</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="put all the HTML code in a folder">
+      <created>1686568295708</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686568295708</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +170,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="he" />
     <MESSAGE value="added test line 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="added test line 5" />
+    <MESSAGE value="put all the HTML code in a folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="put all the HTML code in a folder" />
   </component>
 </project>
