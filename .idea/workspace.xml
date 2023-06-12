@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8b20544-c878-4127-980e-c2b46b4a885c" name="Changes" comment="added test line 5" />
+    <list default="true" id="a8b20544-c878-4127-980e-c2b46b4a885c" name="Changes" comment="added test line 5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/informatie.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/informatie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/navbar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/team.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +32,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Qs5OfiSmOlgZQFSjTGVKVfvtey" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,6 +78,7 @@
       <workItem from="1686296194801" duration="61000" />
       <workItem from="1686296324514" duration="153000" />
       <workItem from="1686297678919" duration="48000" />
+      <workItem from="1686567960731" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="he">
       <created>1686218903396</created>
