@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8b20544-c878-4127-980e-c2b46b4a885c" name="Changes" comment="renamed skyhigh.php to index.php">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="a8b20544-c878-4127-980e-c2b46b4a885c" name="Changes" comment="moved foto's to img" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +85,7 @@
       <workItem from="1686297678919" duration="48000" />
       <workItem from="1686567960731" duration="1190000" />
       <workItem from="1686601714463" duration="1082000" />
-      <workItem from="1686647163395" duration="298000" />
+      <workItem from="1686647163395" duration="602000" />
     </task>
     <task id="LOCAL-00001" summary="he">
       <created>1686218903396</created>
@@ -174,7 +171,28 @@
       <option name="project" value="LOCAL" />
       <updated>1686647339251</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="renamed skyhigh.php to index.php">
+      <created>1686647468438</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686647468438</updated>
+    </task>
+    <task id="LOCAL-00014" summary="moved foto's to img">
+      <created>1686647650105</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686647650105</updated>
+    </task>
+    <task id="LOCAL-00015" summary="moved foto's to img">
+      <created>1686647734228</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686647734228</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +226,7 @@
     <MESSAGE value="added test line 5" />
     <MESSAGE value="put all the HTML code in a folder" />
     <MESSAGE value="renamed skyhigh.php to index.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="renamed skyhigh.php to index.php" />
+    <MESSAGE value="moved foto's to img" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved foto's to img" />
   </component>
 </project>
