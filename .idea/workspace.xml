@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8b20544-c878-4127-980e-c2b46b4a885c" name="Changes" comment="moved foto's to img" />
+    <list default="true" id="a8b20544-c878-4127-980e-c2b46b4a885c" name="Changes" comment="removed capital from include, renamed style to css">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,8 +58,8 @@
       <recent name="C:\Users\Nizar Elmorabit\PhpstormProjects\Groep5_Skyhigh\Include\Foto's" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.index.php">
-    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
       <method v="2" />
     </configuration>
     <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
@@ -87,7 +90,7 @@
       <workItem from="1686297678919" duration="48000" />
       <workItem from="1686567960731" duration="1190000" />
       <workItem from="1686601714463" duration="1082000" />
-      <workItem from="1686647163395" duration="602000" />
+      <workItem from="1686647163395" duration="1389000" />
     </task>
     <task id="LOCAL-00001" summary="he">
       <created>1686218903396</created>
@@ -194,7 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686647734228</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="moved tablet &amp; style to style folder">
+      <created>1686647921487</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1686647921487</updated>
+    </task>
+    <task id="LOCAL-00017" summary="removed capital from include, renamed style to css">
+      <created>1686648052930</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1686648052930</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +246,8 @@
     <MESSAGE value="put all the HTML code in a folder" />
     <MESSAGE value="renamed skyhigh.php to index.php" />
     <MESSAGE value="moved foto's to img" />
-    <option name="LAST_COMMIT_MESSAGE" value="moved foto's to img" />
+    <MESSAGE value="moved tablet &amp; style to style folder" />
+    <MESSAGE value="removed capital from include, renamed style to css" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed capital from include, renamed style to css" />
   </component>
 </project>
