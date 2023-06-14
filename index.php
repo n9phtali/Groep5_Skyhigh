@@ -22,7 +22,7 @@
 
 <?php include 'include/navbar.php';
 include 'include/home.php';
-
+include 'include/over_ons.php';
 include 'include/team.php';
 include 'include/informatie.php';
 include 'include/contact.php';
