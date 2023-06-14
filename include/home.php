@@ -4,7 +4,7 @@
             SKY HIGH <br />
 
         </h1>
-        <button class="btn">Lessen</button>
+        <a class="btn">Lessen</a>
     </div>
 </section>
 
