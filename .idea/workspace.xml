@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8b20544-c878-4127-980e-c2b46b4a885c" name="Changes" comment="put all the HTML code in a folder">
-      <change afterPath="$PROJECT_DIR$/Foto's/1small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Foto's/Gliders.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Foto's/Gliding_pictogram.svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Foto's/Grob_103_79N.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Foto's/Group glider.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Foto's/MDM FOX.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Foto's/OY-FBX_Scheibe_Bergfalke_III.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Foto's/SCHLEICHER_ASK_21_vr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Foto's/zweefvliegtuig.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skyhigh.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Include/informatie.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/informatie.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Include/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/navbar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Include/team.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/team.php" afterDir="false" />
-    </list>
+    <list default="true" id="a8b20544-c878-4127-980e-c2b46b4a885c" name="Changes" comment="I added all the includes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,22 +30,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Nizar",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/mrnop/Desktop/Skyhigh",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Nizar&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mrnop/Desktop/Skyhigh&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Nizar Elmorabit\PhpstormProjects\Groep5_Skyhigh" />
@@ -95,7 +80,7 @@
       <workItem from="1686296324514" duration="153000" />
       <workItem from="1686297678919" duration="48000" />
       <workItem from="1686567960731" duration="1190000" />
-      <workItem from="1686601714463" duration="1082000" />
+      <workItem from="1686601714463" duration="1156000" />
     </task>
     <task id="LOCAL-00001" summary="he">
       <created>1686218903396</created>
@@ -160,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686568446657</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="I added all the includes">
+      <created>1686602865353</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686602865353</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +185,7 @@
     <MESSAGE value="he" />
     <MESSAGE value="added test line 5" />
     <MESSAGE value="put all the HTML code in a folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="put all the HTML code in a folder" />
+    <MESSAGE value="I added all the includes" />
+    <option name="LAST_COMMIT_MESSAGE" value="I added all the includes" />
   </component>
 </project>

@@ -18,7 +18,6 @@
 
 </body>
 </html>
-</html>
 
 <?php include 'Include/navbar.php';
 include 'Include/home.php';
