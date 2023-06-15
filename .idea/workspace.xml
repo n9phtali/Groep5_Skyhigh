@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9036560-0483-4afb-98c2-4232360578f2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login_Signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/Login_Signup.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/Account.php" beforeDir="false" afterPath="$PROJECT_DIR$/Account.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/informatie.php" beforeDir="false" afterPath="$PROJECT_DIR$/informatie.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/navbar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/over_ons.php" beforeDir="false" afterPath="$PROJECT_DIR$/over_ons.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/team.php" beforeDir="false" afterPath="$PROJECT_DIR$/team.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-    </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +12,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -35,6 +31,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php_installation_&lt;version&gt;" />
   <component name="ProjectId" id="2Qs5OfiSmOlgZQFSjTGVKVfvtey" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
@@ -51,6 +48,7 @@
     "git-widget-placeholder": "Nizar",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Nizar Elmorabit/PhpstormProjects/Groep5_Skyhigh/img",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,19 +102,19 @@
       <workItem from="1686728740472" duration="1302000" />
       <workItem from="1686732086016" duration="1259000" />
     </task>
-    <task id="LOCAL-00001" summary="he">
-      <created>1686218903396</created>
+    <task id="LOCAL-00001" summary=".">
+      <created>1686827943428</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1686218903396</updated>
+      <updated>1686827943428</updated>
     </task>
-    <task id="LOCAL-00002" summary="he">
-      <created>1686219153968</created>
+    <task id="LOCAL-00002" summary="forgot_password.css en forgot_password.php">
+      <created>1686828362586</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1686219153968</updated>
+      <updated>1686828362586</updated>
     </task>
     <task id="LOCAL-00003" summary="he">
       <created>1686219185948</created>
@@ -230,6 +228,7 @@
       <option name="project" value="LOCAL" />
       <updated>1686648653496</updated>
     </task>
+
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,5 +266,3 @@
     <MESSAGE value="moved tablet &amp; style to style folder" />
     <MESSAGE value="removed capital from include, renamed style to css" />
     <MESSAGE value="moved body opening tag to line 4 from line 19" />
-  </component>
-</project>
