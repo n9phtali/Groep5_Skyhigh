@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2f153d0-3687-4aea-bdf4-beaac3ac51f9" name="Changes" comment="" />
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Nizar",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Nizar Elmorabit/PhpstormProjects/Groep5_Skyhigh/img",
     "list.type.of.created.stylesheet": "CSS",
@@ -59,11 +59,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nizar Elmorabit\PhpstormProjects\Groep5_Skyhigh\include" />
       <recent name="C:\Users\Nizar Elmorabit\PhpstormProjects\Groep5_Skyhigh" />
       <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh\style" />
       <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh\img" />
       <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh" />
-      <recent name="C:\Users\Nizar Elmorabit\PhpstormProjects\Groep5_Skyhigh\Include\Foto's" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Script.index.php">
@@ -228,7 +228,7 @@
       <option name="project" value="LOCAL" />
       <updated>1686648653496</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,8 +266,3 @@
     <MESSAGE value="moved tablet &amp; style to style folder" />
     <MESSAGE value="removed capital from include, renamed style to css" />
     <MESSAGE value="moved body opening tag to line 4 from line 19" />
-    <MESSAGE value="." />
-    <MESSAGE value="forgot_password.css en forgot_password.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="forgot_password.css en forgot_password.php" />
-  </component>
-</project>
