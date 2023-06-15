@@ -1,3 +1,0 @@
-<?php
-beta
-hg
