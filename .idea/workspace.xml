@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2f153d0-3687-4aea-bdf4-beaac3ac51f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css/forgot_password.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forgot_password.php" afterDir="false" />
-    </list>
+    <list default="true" id="a2f153d0-3687-4aea-bdf4-beaac3ac51f9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +31,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php_installation_&lt;version&gt;" />
   <component name="ProjectId" id="2Qs5OfiSmOlgZQFSjTGVKVfvtey" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
@@ -111,12 +109,12 @@
       <option name="project" value="LOCAL" />
       <updated>1686827943428</updated>
     </task>
-    <task id="LOCAL-00002" summary="he">
-      <created>1686219153968</created>
+    <task id="LOCAL-00002" summary="forgot_password.css en forgot_password.php">
+      <created>1686828362586</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1686219153968</updated>
+      <updated>1686828362586</updated>
     </task>
     <task id="LOCAL-00003" summary="he">
       <created>1686219185948</created>
@@ -230,7 +228,7 @@
       <option name="project" value="LOCAL" />
       <updated>1686648653496</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +267,7 @@
     <MESSAGE value="removed capital from include, renamed style to css" />
     <MESSAGE value="moved body opening tag to line 4 from line 19" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="forgot_password.css en forgot_password.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="forgot_password.css en forgot_password.php" />
   </component>
 </project>
