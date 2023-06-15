@@ -11,6 +11,7 @@
         rel="stylesheet"
         media="screen and (max-width:800px)"
         href="css/tablet.css"
+
     />
 </head>
 
@@ -22,8 +23,8 @@
 
 <?php include 'include/navbar.php';
 include 'include/home.php';
-
+include 'include/over_ons.php';
 include 'include/team.php';
 include 'include/informatie.php';
-include 'include/contact.php';
+
 
