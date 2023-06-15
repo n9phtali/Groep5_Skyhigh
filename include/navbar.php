@@ -4,7 +4,7 @@
         <li><a href="#over ons">Over ons</a></li>
         <li><a href="#team">Team</a></li>
         <li><a href="#informatie">Informatie</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a href="contact.php">Contact</a></li>
         <li><a href="Login_Signup.php">Account</a></li>
     </ul>
 </nav>
