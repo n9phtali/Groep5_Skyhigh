@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
-    <title>CodePen - Sign up / Login Form</title>
+    <title>Inloggen / Registreren</title>
     <link rel="stylesheet" href="./css/Login_signup.css" />
 </head>
 <body>

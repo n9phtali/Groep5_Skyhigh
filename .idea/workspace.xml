@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8b20544-c878-4127-980e-c2b46b4a885c" name="Changes" comment="i added include over_ons">
-      <change afterPath="$PROJECT_DIR$/Login_Signup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/Login_signup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/man_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/Account.php" afterDir="false" />
+    <list default="true" id="a8b20544-c878-4127-980e-c2b46b4a885c" name="Changes" comment="moved body opening tag to line 4 from line 19">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/dropdown.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/informatie.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/informatie.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/navbar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/over_ons.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/over_ons.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/team.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/team.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login_Signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/Login_Signup.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +15,6 @@
   </component>
   <component name="ComposerSettings">
     <execution />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CSS File" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -53,27 +35,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Nizar&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nizar Elmorabit/PhpstormProjects/Groep5_Skyhigh/img&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Nizar Elmorabit/PhpstormProjects/Groep5_Skyhigh/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Nizar Elmorabit\PhpstormProjects\Groep5_Skyhigh\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh\style" />
       <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh\img" />
@@ -117,7 +95,7 @@
       <workItem from="1686647163395" duration="4252000" />
       <workItem from="1686728740472" duration="1302000" />
       <workItem from="1686732086016" duration="1259000" />
-      <workItem from="1686748534681" duration="4080000" />
+      <workItem from="1686812477760" duration="1171000" />
     </task>
     <task id="LOCAL-00001" summary="he">
       <created>1686218903396</created>
@@ -245,14 +223,7 @@
       <option name="project" value="LOCAL" />
       <updated>1686648653496</updated>
     </task>
-    <task id="LOCAL-00019" summary="i added include over_ons">
-      <created>1686738309051</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1686738309051</updated>
-    </task>
-    <option name="localTasksCounter" value="20" />
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +261,6 @@
     <MESSAGE value="moved tablet &amp; style to style folder" />
     <MESSAGE value="removed capital from include, renamed style to css" />
     <MESSAGE value="moved body opening tag to line 4 from line 19" />
-    <MESSAGE value="i added include over_ons" />
-    <option name="LAST_COMMIT_MESSAGE" value="i added include over_ons" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved body opening tag to line 4 from line 19" />
   </component>
 </project>
