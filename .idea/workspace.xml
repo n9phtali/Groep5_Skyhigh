@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8b20544-c878-4127-980e-c2b46b4a885c" name="Changes" comment="i added include over_ons">
-      <change afterPath="$PROJECT_DIR$/Login_Signup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/Login_signup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/man_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/Account.php" afterDir="false" />
+    <list default="true" id="a8b20544-c878-4127-980e-c2b46b4a885c" name="Changes" comment="i added a login/signup php file and made a account butten on the navbar and connected them">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/dropdown.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/informatie.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/informatie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login_Signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/Login_Signup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Login_signup.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Login_signup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/include/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/navbar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/over_ons.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/over_ons.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/team.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/team.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,10 +68,10 @@
       <recent name="C:\Users\Nizar Elmorabit\PhpstormProjects\Groep5_Skyhigh\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nizar Elmorabit\PhpstormProjects\Groep5_Skyhigh" />
       <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh\style" />
       <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh\img" />
       <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh" />
-      <recent name="C:\Users\Nizar Elmorabit\PhpstormProjects\Groep5_Skyhigh" />
       <recent name="C:\Users\Nizar Elmorabit\PhpstormProjects\Groep5_Skyhigh\Include\Foto's" />
     </key>
   </component>
@@ -117,7 +110,8 @@
       <workItem from="1686647163395" duration="4252000" />
       <workItem from="1686728740472" duration="1302000" />
       <workItem from="1686732086016" duration="1259000" />
-      <workItem from="1686748534681" duration="4080000" />
+      <workItem from="1686748534681" duration="4247000" />
+      <workItem from="1686820275862" duration="2213000" />
     </task>
     <task id="LOCAL-00001" summary="he">
       <created>1686218903396</created>
@@ -252,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686738309051</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="i added a login/signup php file and made a account butten on the navbar and connected them">
+      <created>1686767360253</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1686767360253</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,6 +292,7 @@
     <MESSAGE value="removed capital from include, renamed style to css" />
     <MESSAGE value="moved body opening tag to line 4 from line 19" />
     <MESSAGE value="i added include over_ons" />
-    <option name="LAST_COMMIT_MESSAGE" value="i added include over_ons" />
+    <MESSAGE value="i added a login/signup php file and made a account butten on the navbar and connected them" />
+    <option name="LAST_COMMIT_MESSAGE" value="i added a login/signup php file and made a account butten on the navbar and connected them" />
   </component>
 </project>
