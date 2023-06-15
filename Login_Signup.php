@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="./css/Login_signup.css" />
 </head>
 <body>
-<?php include'include/navbar.php';?>
+<?php include 'include/navbar.php';?>
 <div class="content">
     <div class="main">
         <input type="checkbox" id="chk" aria-hidden="true" />

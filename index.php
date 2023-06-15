@@ -1,7 +1,5 @@
-
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/html">
-<body>
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -14,17 +12,18 @@
 
     />
 </head>
-
+<body>
+<?php include 'include/navbar.php';
+include 'include/home.php';
+?>
 
 
 
 </body>
 </html>
 
-<?php include 'include/navbar.php';
-include 'include/home.php';
-include 'include/over_ons.php';
-include 'include/team.php';
-include 'include/informatie.php';
+
+
+
 
 
