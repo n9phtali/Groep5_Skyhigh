@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
-    <title>Sign up / Login Form</title>
+
     <link rel="stylesheet" href="./css/Login_signup.css" />
 </head>
 <body>
