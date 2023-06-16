@@ -13,6 +13,7 @@
     />
 </head>
 <body>
+<?php include'include/navbar.php';?>
 <section id="informatie">
     <h1 class="headings">INFORMATIE</h1>
     <div class="row">

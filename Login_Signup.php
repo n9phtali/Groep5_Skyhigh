@@ -52,6 +52,8 @@
                         required=""
                 />
                 <button>Login</button>
+                <button>Wachtwoord vergeten</button>
+
             </form>
         </div>
     </div>
