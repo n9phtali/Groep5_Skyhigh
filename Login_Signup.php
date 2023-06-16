@@ -52,7 +52,7 @@
                         required=""
                 />
                 <button>Login</button>
-                <button>Wachtwoord vergeten</button>
+                <a href="forgot_password.php" id="fgt">Wachtwoord vergeten</a>
 
             </form>
         </div>
