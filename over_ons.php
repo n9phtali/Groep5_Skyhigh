@@ -14,6 +14,8 @@
     />
 </head>
 <body>
+<?php include'include/navbar.php';?>
+
 <section id="over ons">
     <h1 class="headings">OVER ONS</h1>
     <div id="pic">

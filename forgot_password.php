@@ -20,10 +20,11 @@
                     name="email"
                     placeholder="Email"
                     required=""
-
                 />
                 <button>Doorgaan</button>
+                <a href="" id="forgot_pass">Wachtwoord vergeten</a>
             </form>
+
         </div>
 
 

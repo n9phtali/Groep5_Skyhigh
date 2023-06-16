@@ -13,6 +13,7 @@
     />
 </head>
 <body>
+<?php include'include/navbar.php';?>
 <section id="team">
     <h1 class="headings">TEAM</h1>
     <div class="gallery">
