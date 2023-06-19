@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62d0f66c-1208-42e5-b9d2-29e54f8bf5b9" name="Changes" comment="ik heb forgot password geliked aan signup">
+    <list default="true" id="a2f153d0-3687-4aea-bdf4-beaac3ac51f9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login_Signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/Login_Signup.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/Login_signup.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Login_signup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/forgot_password.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/forgot_password.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forgot_password.php" beforeDir="false" afterPath="$PROJECT_DIR$/forgot_password.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Include/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/home.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,13 +16,26 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2RHRNNYTLG0bSi3uQrjVhZYPZ38" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php_installation_&lt;version&gt;" />
+  <component name="ProjectId" id="2Qs5OfiSmOlgZQFSjTGVKVfvtey" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
   </component>
@@ -34,44 +43,236 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Nizar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nizar Elmorabit/PhpstormProjects/Groep5_Skyhigh/img&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nizar Elmorabit\PhpstormProjects\Groep5_Skyhigh" />
+      <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh\style" />
+      <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh\img" />
+      <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh" />
+      <recent name="C:\Users\Nizar Elmorabit\PhpstormProjects\Groep5_Skyhigh\Include\Foto's" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.index.php">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+        <item itemvalue="PHP Script.test.php" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="62d0f66c-1208-42e5-b9d2-29e54f8bf5b9" name="Changes" comment="" />
-      <created>1686904990433</created>
+      <changelist id="a2f153d0-3687-4aea-bdf4-beaac3ac51f9" name="Changes" comment="" />
+      <created>1686129417638</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1686904990433</updated>
-      <workItem from="1686905005039" duration="3125000" />
+      <updated>1686129417638</updated>
+      <workItem from="1686129421085" duration="1337000" />
+      <workItem from="1686218774369" duration="189000" />
+      <workItem from="1686218976587" duration="588000" />
+      <workItem from="1686219582844" duration="2705000" />
+      <workItem from="1686296074143" duration="16000" />
+      <workItem from="1686296194801" duration="61000" />
+      <workItem from="1686296324514" duration="153000" />
+      <workItem from="1686297678919" duration="48000" />
+      <workItem from="1686567960731" duration="1190000" />
+      <workItem from="1686601714463" duration="1082000" />
+      <workItem from="1686647163395" duration="4252000" />
+      <workItem from="1686728740472" duration="1302000" />
+      <workItem from="1686732086016" duration="1259000" />
+      <workItem from="1687165672879" duration="3325000" />
     </task>
-    <task id="LOCAL-00001" summary="ik heb forgot password geliked aan signup">
-      <created>1686905855938</created>
+    <task id="LOCAL-00001" summary=".">
+      <created>1686827943428</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1686905855938</updated>
+      <updated>1686827943428</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="forgot_password.css en forgot_password.php">
+      <created>1686828362586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686828362586</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Login en signup naar nederlands vertaald">
+      <created>1686910220587</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686910220587</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Login en signup naar nederlands vertaald">
+      <created>1686910309144</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686910309144</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Login en signup naar nederlands vertaald">
+      <created>1686910327954</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686910327954</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added test line 5">
+      <created>1686219300471</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686219300471</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added test line 5">
+      <created>1686219656052</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686219656052</updated>
+    </task>
+    <task id="LOCAL-00008" summary="put all the HTML code in a folder">
+      <created>1686568295708</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686568295708</updated>
+    </task>
+    <task id="LOCAL-00009" summary="put all the HTML code in a folder">
+      <created>1686568446657</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686568446657</updated>
+    </task>
+    <task id="LOCAL-00010" summary="put all the HTML code in a folder">
+      <created>1686646574468</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686646574468</updated>
+    </task>
+    <task id="LOCAL-00011" summary="put all the HTML code in a folder">
+      <created>1686646593796</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686646593796</updated>
+    </task>
+    <task id="LOCAL-00012" summary="renamed skyhigh.php to index.php">
+      <created>1686647339251</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686647339251</updated>
+    </task>
+    <task id="LOCAL-00013" summary="renamed skyhigh.php to index.php">
+      <created>1686647468438</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686647468438</updated>
+    </task>
+    <task id="LOCAL-00014" summary="moved foto's to img">
+      <created>1686647650105</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686647650105</updated>
+    </task>
+    <task id="LOCAL-00015" summary="moved foto's to img">
+      <created>1686647734228</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686647734228</updated>
+    </task>
+    <task id="LOCAL-00016" summary="moved tablet &amp; style to style folder">
+      <created>1686647921487</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1686647921487</updated>
+    </task>
+    <task id="LOCAL-00017" summary="removed capital from include, renamed style to css">
+      <created>1686648052930</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1686648052930</updated>
+    </task>
+    <task id="LOCAL-00018" summary="moved body opening tag to line 4 from line 19">
+      <created>1686648653496</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1686648653496</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/Naphtali" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ik heb forgot password geliked aan signup" />
-    <option name="LAST_COMMIT_MESSAGE" value="ik heb forgot password geliked aan signup" />
+    <MESSAGE value="he" />
+    <MESSAGE value="added test line 5" />
+    <MESSAGE value="put all the HTML code in a folder" />
+    <MESSAGE value="renamed skyhigh.php to index.php" />
+    <MESSAGE value="moved foto's to img" />
+    <MESSAGE value="moved tablet &amp; style to style folder" />
+    <MESSAGE value="removed capital from include, renamed style to css" />
+    <MESSAGE value="moved body opening tag to line 4 from line 19" />
+    <MESSAGE value="." />
+    <MESSAGE value="forgot_password.css en forgot_password.php" />
+    <MESSAGE value="Login en signup naar nederlands vertaald" />
+    <option name="LAST_COMMIT_MESSAGE" value="Login en signup naar nederlands vertaald" />
   </component>
 </project>

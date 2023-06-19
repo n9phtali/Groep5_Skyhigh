@@ -13,11 +13,11 @@
 
         <div class="signup">
             <form>
-                <label for="chk" aria-hidden="true">Sign up</label>
+                <label for="chk" aria-hidden="true">Registreren</label>
                 <input
                         type="text"
                         name="txt"
-                        placeholder="User name"
+                        placeholder="Gebruikersnaam"
                         required=""
                 />
                 <input
@@ -29,10 +29,10 @@
                 <input
                         type="password"
                         name="pswd"
-                        placeholder="Password"
+                        placeholder="Wachtwoord"
                         required=""
                 />
-                <button>Sign up</button>
+                <button>Registreer</button>
             </form>
         </div>
 
@@ -48,7 +48,7 @@
                 <input
                         type="password"
                         name="pswd"
-                        placeholder="Password"
+                        placeholder="Wachtwoord"
                         required=""
                 />
                 <button>Login</button>
@@ -61,3 +61,4 @@
 
 </body>
 </html>
+
