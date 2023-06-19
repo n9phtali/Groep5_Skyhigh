@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2f153d0-3687-4aea-bdf4-beaac3ac51f9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Include/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/home.php" afterDir="false" />
-    </list>
+    <list default="true" id="a2f153d0-3687-4aea-bdf4-beaac3ac51f9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +101,7 @@
       <workItem from="1686647163395" duration="4252000" />
       <workItem from="1686728740472" duration="1302000" />
       <workItem from="1686732086016" duration="1259000" />
-      <workItem from="1687165672879" duration="3325000" />
+      <workItem from="1687165672879" duration="3777000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1686827943428</created>
@@ -141,19 +138,19 @@
       <option name="project" value="LOCAL" />
       <updated>1686910327954</updated>
     </task>
-    <task id="LOCAL-00006" summary="added test line 5">
-      <created>1686219300471</created>
+    <task id="LOCAL-00006" summary="Weather api toegevoegd aan homepage">
+      <created>1687169269338</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1686219300471</updated>
+      <updated>1687169269338</updated>
     </task>
-    <task id="LOCAL-00007" summary="added test line 5">
-      <created>1686219656052</created>
+    <task id="LOCAL-00007" summary="Weather api toegevoegd aan homepage">
+      <created>1687169327822</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1686219656052</updated>
+      <updated>1687169327822</updated>
     </task>
     <task id="LOCAL-00008" summary="put all the HTML code in a folder">
       <created>1686568295708</created>
@@ -232,7 +229,7 @@
       <option name="project" value="LOCAL" />
       <updated>1686648653496</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +270,7 @@
     <MESSAGE value="." />
     <MESSAGE value="forgot_password.css en forgot_password.php" />
     <MESSAGE value="Login en signup naar nederlands vertaald" />
-    <option name="LAST_COMMIT_MESSAGE" value="Login en signup naar nederlands vertaald" />
+    <MESSAGE value="Weather api toegevoegd aan homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Weather api toegevoegd aan homepage" />
   </component>
 </project>
