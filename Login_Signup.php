@@ -35,7 +35,7 @@
                 <input
                         type="text"
                         name="telefoonnumer"
-                        placeholder="telefoonnummer "
+                        placeholder="telefoonnummer"
                         required=""
                 />
 
