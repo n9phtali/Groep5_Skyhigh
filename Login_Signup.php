@@ -1,3 +1,7 @@
+<?php
+require_once "database/conn.php";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,7 +39,7 @@
                 <input
                         type="text"
                         name="telefoonnumer"
-                        placeholder="telefoonnummer"
+                        placeholder="telefoonnummer "
                         required=""
                 />
 
@@ -45,11 +49,11 @@
             <?php
             if($_SERVER['REQUEST_METHOD'] == "POST"){
                 if ($_POST['login'] == "signup") {
-                    require_once "database/conn.php";
+
                     echo "hello world";
 
                     $Gebruikersnaam = $_POST['Gebruikersnaam'];
-                    $wachtwoord = $_POST['wachtwoord'];
+                    $wachtwoord = sha1($_POST['wachtwoord']);
                     $email = $_POST['email'];
                     $tussenvoegsel = "tussenvoegsel";
                     $telefoonnummer = 'telefoonnummer';
@@ -110,16 +114,29 @@
         if($_SERVER['REQUEST_METHOD'] == "POST") {
             if ($_POST['login'] == "login") {
             $email = $_POST['email'];
-            $wachtwoord = $_POST['wachtwoord'];
+            $wachtwoord = $_POST['pswd'];
             echo "LOGGING IN";
 
             require_once "include/cleanDataFunction.php";
 
-            $Gebruikersnaam = clean_data($Gebruikersnaam);
+            $email = clean_data($email);
             $wachtwoord = clean_data($wachtwoord);
 
-            $dbGebruikersnaam = mysqli_query($conn, $Gebruikersnaam);
+            $dbemail = mysqli_real_escape_string($conn, $email);
             $dbWachtwoord = mysqli_real_escape_string($conn, $wachtwoord);
+
+            $dbWachtwoord = sha1($dbWachtwoord);
+
+            $sql = "SELECT *  FROM gebruikers WHERE email = '$dbemail' AND Wachtwoord = '$dbWachtwoord'";
+
+            $result = mysqli_query($conn, $sql);
+            $number = mysqli_num_rows($result);
+
+            if ($number >= 1){
+                $_SESSION['login'] = true;
+                $_SESSION['email'] = $dbemail;
+                header ("location: index.php");
+            }
             }
         }
         ?>
