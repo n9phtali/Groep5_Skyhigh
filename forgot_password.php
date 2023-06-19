@@ -14,16 +14,17 @@
         <div class="signup">
             <form>
                 <label for="chk" aria-hidden="true">Wachtwoord vergeten</label>
-                Voer het e-mailadres van je account in. We sturen je dan een link om je wachtwoord opnieuw in te stellen.
+                <h3>Voer het e-mailadres van je account in. We sturen je dan een link om je wachtwoord opnieuw in te stellen.</h3>
                 <input
                     type="email"
                     name="email"
                     placeholder="Email"
                     required=""
-
                 />
                 <button>Doorgaan</button>
+
             </form>
+
         </div>
 
 
