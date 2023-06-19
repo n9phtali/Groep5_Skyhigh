@@ -12,12 +12,12 @@
         <input type="checkbox" id="chk" aria-hidden="true" />
 
         <div class="signup">
-            <form>
-                <label for="chk" aria-hidden="true">Registreren</label>
+            <form method="POST">
+                <label for="chk" aria-hidden="true">Sign up</label>
                 <input
                         type="text"
-                        name="txt"
-                        placeholder="Gebruikersnaam"
+                        name="Gebruikersnaam"
+                        placeholder="gebruikersnaam"
                         required=""
                 />
                 <input
@@ -28,17 +28,69 @@
                 />
                 <input
                         type="password"
-                        name="pswd"
-                        placeholder="Wachtwoord"
+                        name="wachtwoord"
+                        placeholder="wachtwoord"
                         required=""
                 />
-                <button>Registreer</button>
+                <input
+                        type="text"
+                        name="telefoonnumer"
+                        placeholder="telefoonnummer"
+                        required=""
+                />
+
+                <input type="hidden" name="login" value="signup">
+                <button>Sign up</button>
             </form>
+            <?php
+            if($_SERVER['REQUEST_METHOD'] == "POST"){
+                if ($_POST['login'] == "signup") {
+                    require_once "database/conn.php";
+                    echo "hello world";
+
+                    $Gebruikersnaam = $_POST['Gebruikersnaam'];
+                    $wachtwoord = $_POST['wachtwoord'];
+                    $email = $_POST['email'];
+                    $tussenvoegsel = "tussenvoegsel";
+                    $telefoonnummer = 'telefoonnummer';
+                    $geboortedatum = date("Y/m/d");
+                    $voornaam = "admin";
+                    $achternaam = "admin";
+
+                    $sql = "INSERT INTO gebruikers
+                            (Gebruikersnaam,
+                            voornaam,
+                            Achternaam,
+                            tussenvoegsel,
+                            Wachtwoord,
+                            email,
+                            telefoonnummer,
+                            geboortedatum)
+                            VALUES(
+                            '$Gebruikersnaam',
+                            '$voornaam',
+                            '$achternaam',
+                            '$tussenvoegsel',
+                            '$wachtwoord',
+                            '$email',
+                            '$telefoonnummer',
+                            '$geboortedatum')";
+
+                    $result = mysqli_query($conn, $sql);
+                    header("location: index.php");
+                    if (!$result) {
+                        echo "Query error";
+                        mysqli_close($conn);
+                    }
+                }
+            }
+            ?>
         </div>
 
         <div class="login">
-            <form>
+            <form method="POST">
                 <label for="chk" aria-hidden="true">Login</label>
+                <input type="hidden" name="login" value="login">
                 <input
                         type="email"
                         name="email"
@@ -48,17 +100,31 @@
                 <input
                         type="password"
                         name="pswd"
-                        placeholder="Wachtwoord"
+                        placeholder="Password"
                         required=""
                 />
                 <button>Login</button>
-                <a href="forgot_password.php" id="fgt">Wachtwoord vergeten</a>
-
             </form>
         </div>
+        <?php
+        if($_SERVER['REQUEST_METHOD'] == "POST") {
+            if ($_POST['login'] == "login") {
+            $email = $_POST['email'];
+            $wachtwoord = $_POST['wachtwoord'];
+            echo "LOGGING IN";
+
+            require_once "include/cleanDataFunction.php";
+
+            $Gebruikersnaam = clean_data($Gebruikersnaam);
+            $wachtwoord = clean_data($wachtwoord);
+
+            $dbGebruikersnaam = mysqli_query($conn, $Gebruikersnaam);
+            $dbWachtwoord = mysqli_real_escape_string($conn, $wachtwoord);
+            }
+        }
+        ?>
     </div>
 </div>
 
 </body>
 </html>
-
