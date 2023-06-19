@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd495732-3e7d-4250-8d1c-27bd4cd935f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/cleanDataFunction.php" afterDir="false" />
+    <list default="true" id="dd495732-3e7d-4250-8d1c-27bd4cd935f1" name="Changes" comment="databased">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Login_Signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/Login_Signup.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/conn.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/conn.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +78,23 @@
       <option name="presentableId" value="Default" />
       <updated>1686907283215</updated>
       <workItem from="1686907288429" duration="3476000" />
-      <workItem from="1687160164532" duration="7084000" />
+      <workItem from="1687160164532" duration="8465000" />
     </task>
+    <task id="LOCAL-00001" summary="databased">
+      <created>1687169918487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687169918487</updated>
+    </task>
+    <task id="LOCAL-00002" summary="databased">
+      <created>1687170412331</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687170412331</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="databased" />
+    <option name="LAST_COMMIT_MESSAGE" value="databased" />
   </component>
 </project>
