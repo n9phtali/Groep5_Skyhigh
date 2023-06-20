@@ -52,6 +52,8 @@ require_once "database/conn.php";
 
                     echo "hello world";
 
+                    require_once "include/cleanDataFunction.php";
+
                     $Gebruikersnaam = $_POST['Gebruikersnaam'];
                     $wachtwoord = sha1($_POST['wachtwoord']);
                     $email = $_POST['email'];
@@ -61,12 +63,21 @@ require_once "database/conn.php";
                     $voornaam = "admin";
                     $achternaam = "admin";
 
+                    $Gebruikersnaam = clean_data($Gebruikersnaam);
+                    $voornaam = clean_data($voornaam);
+                    $tussenvoegsel = clean_data($tussenvoegsel);
+                    $wachtwoord = clean_Data($wachtwoord);
+                    $email = clean_data($email);
+                    $telefoonnummer = clean_data($telefoonnummer);
+                    $geboortedatum = clean_Data($geboortedatum);
+
+
                     $sql = "INSERT INTO gebruikers
                             (Gebruikersnaam,
                             voornaam,
                             Achternaam,
                             tussenvoegsel,
-                            Wachtwoord,
+                            wachtwoord,
                             email,
                             telefoonnummer,
                             geboortedatum)
