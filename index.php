@@ -14,17 +14,27 @@
 
     />
 </head>
-
+fd
 
 
 
 </body>
+<?php
+require_once "database/conn.php";
+
+$sql = "SELECT * FROM Gebruikers";
+if ($result = $conn->query($sql)) {
+    while ($row = $result->fetch_row()) {
+        echo $row[0];
+        echo $row[1];
+        echo $row[2];
+    }
+
+}
+?>
+
 </html>
 
 <?php include 'include/navbar.php';
 include 'include/home.php';
-include 'include/over_ons.php';
-include 'include/team.php';
-include 'include/informatie.php';
-
 
