@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2f153d0-3687-4aea-bdf4-beaac3ac51f9" name="Changes" comment="">
+    <list default="true" id="dd495732-3e7d-4250-8d1c-27bd4cd935f1" name="Changes" comment="login page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,13 +15,6 @@
   </component>
   <component name="ComposerSettings">
     <execution />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CSS File" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -33,8 +27,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php_installation_&lt;version&gt;" />
-  <component name="ProjectId" id="2Qs5OfiSmOlgZQFSjTGVKVfvtey" />
+  <component name="ProjectId" id="2RHW2gwJTRwnCtmFeLHT5Cwqbgw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
   </component>
@@ -44,40 +37,34 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nizar Elmorabit/PhpstormProjects/Groep5_Skyhigh/img&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Naphtali&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Nizar Elmorabit\PhpstormProjects\Groep5_Skyhigh" />
-      <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh\style" />
-      <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh\img" />
-      <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh" />
-      <recent name="C:\Users\Nizar Elmorabit\PhpstormProjects\Groep5_Skyhigh\Include\Foto's" />
+      <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh\include" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.index.php">
-    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.index.php" />
         <item itemvalue="PHP Script.test.php" />
       </list>
     </recent_temporary>
@@ -85,155 +72,47 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a2f153d0-3687-4aea-bdf4-beaac3ac51f9" name="Changes" comment="" />
-      <created>1686129417638</created>
+      <changelist id="dd495732-3e7d-4250-8d1c-27bd4cd935f1" name="Changes" comment="" />
+      <created>1686907283215</created>
       <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1686129417638</updated>
-      <workItem from="1686129421085" duration="1337000" />
-      <workItem from="1686218774369" duration="189000" />
-      <workItem from="1686218976587" duration="588000" />
-      <workItem from="1686219582844" duration="2705000" />
-      <workItem from="1686296074143" duration="16000" />
-      <workItem from="1686296194801" duration="61000" />
-      <workItem from="1686296324514" duration="153000" />
-      <workItem from="1686297678919" duration="48000" />
-      <workItem from="1686567960731" duration="1190000" />
-      <workItem from="1686601714463" duration="1082000" />
-      <workItem from="1686647163395" duration="4252000" />
-      <workItem from="1686728740472" duration="1302000" />
-      <workItem from="1686732086016" duration="1259000" />
-      <workItem from="1687165672879" duration="4680000" />
-      <workItem from="1687250390370" duration="706000" />
-      <workItem from="1687252672685" duration="2827000" />
+
     </task>
-    <task id="LOCAL-00001" summary=".">
-      <created>1686827943428</created>
+    <task id="LOCAL-00001" summary="databased">
+      <created>1687169918487</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1686827943428</updated>
+      <updated>1687169918487</updated>
     </task>
-    <task id="LOCAL-00002" summary="forgot_password.css en forgot_password.php">
-      <created>1686828362586</created>
+    <task id="LOCAL-00002" summary="databased">
+      <created>1687170412331</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1686828362586</updated>
+      <updated>1687170412331</updated>
     </task>
-    <task id="LOCAL-00003" summary="Login en signup naar nederlands vertaald">
-      <created>1686910220587</created>
+    <task id="LOCAL-00003" summary="databased">
+      <created>1687171309670</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1686910220587</updated>
+      <updated>1687171309670</updated>
     </task>
-    <task id="LOCAL-00004" summary="Login en signup naar nederlands vertaald">
-      <created>1686910309144</created>
+    <task id="LOCAL-00004" summary="databased">
+      <created>1687171324308</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1686910309144</updated>
+      <updated>1687171324308</updated>
     </task>
-    <task id="LOCAL-00005" summary="Login en signup naar nederlands vertaald">
-      <created>1686910327954</created>
+    <task id="LOCAL-00005" summary="databased">
+      <created>1687171577753</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1686910327954</updated>
+      <updated>1687171577753</updated>
     </task>
-    <task id="LOCAL-00006" summary="Weather api toegevoegd aan homepage">
-      <created>1687169269338</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1687169269338</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Weather api toegevoegd aan homepage">
-      <created>1687169327822</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1687169327822</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Weather api toegevoegd aan homepage">
-      <created>1687169711519</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1687169711519</updated>
-    </task>
-    <task id="LOCAL-00009" summary="put all the HTML code in a folder">
-      <created>1686568446657</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1686568446657</updated>
-    </task>
-    <task id="LOCAL-00010" summary="put all the HTML code in a folder">
-      <created>1686646574468</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1686646574468</updated>
-    </task>
-    <task id="LOCAL-00011" summary="put all the HTML code in a folder">
-      <created>1686646593796</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1686646593796</updated>
-    </task>
-    <task id="LOCAL-00012" summary="renamed skyhigh.php to index.php">
-      <created>1686647339251</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1686647339251</updated>
-    </task>
-    <task id="LOCAL-00013" summary="renamed skyhigh.php to index.php">
-      <created>1686647468438</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1686647468438</updated>
-    </task>
-    <task id="LOCAL-00014" summary="moved foto's to img">
-      <created>1686647650105</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1686647650105</updated>
-    </task>
-    <task id="LOCAL-00015" summary="moved foto's to img">
-      <created>1686647734228</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1686647734228</updated>
-    </task>
-    <task id="LOCAL-00016" summary="moved tablet &amp; style to style folder">
-      <created>1686647921487</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1686647921487</updated>
-    </task>
-    <task id="LOCAL-00017" summary="removed capital from include, renamed style to css">
-      <created>1686648052930</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1686648052930</updated>
-    </task>
-    <task id="LOCAL-00018" summary="moved body opening tag to line 4 from line 19">
-      <created>1686648653496</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1686648653496</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,37 +123,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/Naphtali" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="he" />
-    <MESSAGE value="added test line 5" />
-    <MESSAGE value="put all the HTML code in a folder" />
-    <MESSAGE value="renamed skyhigh.php to index.php" />
-    <MESSAGE value="moved foto's to img" />
-    <MESSAGE value="moved tablet &amp; style to style folder" />
-    <MESSAGE value="removed capital from include, renamed style to css" />
-    <MESSAGE value="moved body opening tag to line 4 from line 19" />
-    <MESSAGE value="." />
-    <MESSAGE value="forgot_password.css en forgot_password.php" />
-    <MESSAGE value="Login en signup naar nederlands vertaald" />
-    <MESSAGE value="Weather api toegevoegd aan homepage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Weather api toegevoegd aan homepage" />
+
   </component>
 </project>
