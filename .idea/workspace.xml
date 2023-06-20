@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2f153d0-3687-4aea-bdf4-beaac3ac51f9" name="Changes" comment="" />
+    <list default="true" id="a2f153d0-3687-4aea-bdf4-beaac3ac51f9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +103,9 @@
       <workItem from="1686647163395" duration="4252000" />
       <workItem from="1686728740472" duration="1302000" />
       <workItem from="1686732086016" duration="1259000" />
-      <workItem from="1687165672879" duration="3777000" />
+      <workItem from="1687165672879" duration="4680000" />
+      <workItem from="1687250390370" duration="706000" />
+      <workItem from="1687252672685" duration="2827000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1686827943428</created>
@@ -152,12 +156,12 @@
       <option name="project" value="LOCAL" />
       <updated>1687169327822</updated>
     </task>
-    <task id="LOCAL-00008" summary="put all the HTML code in a folder">
-      <created>1686568295708</created>
+    <task id="LOCAL-00008" summary="Weather api toegevoegd aan homepage">
+      <created>1687169711519</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1686568295708</updated>
+      <updated>1687169711519</updated>
     </task>
     <task id="LOCAL-00009" summary="put all the HTML code in a folder">
       <created>1686568446657</created>
@@ -229,7 +233,7 @@
       <option name="project" value="LOCAL" />
       <updated>1686648653496</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
