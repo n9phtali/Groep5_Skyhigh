@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd495732-3e7d-4250-8d1c-27bd4cd935f1" name="Changes" comment="databased">
+    <list default="true" id="dd495732-3e7d-4250-8d1c-27bd4cd935f1" name="Changes" comment="login page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Login_Signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/Login_Signup.php" afterDir="false" />
     </list>
@@ -78,7 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1686907283215</updated>
       <workItem from="1686907288429" duration="3476000" />
-      <workItem from="1687160164532" duration="10454000" />
+      <workItem from="1687160164532" duration="10833000" />
+      <workItem from="1687244777672" duration="5532000" />
     </task>
     <task id="LOCAL-00001" summary="databased">
       <created>1687169918487</created>
@@ -115,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687171577753</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="login page">
+      <created>1687173366321</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687173366321</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +142,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="databased" />
-    <option name="LAST_COMMIT_MESSAGE" value="databased" />
+    <MESSAGE value="login page" />
+    <option name="LAST_COMMIT_MESSAGE" value="login page" />
   </component>
 </project>
