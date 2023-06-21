@@ -14,7 +14,7 @@
 
     />
 </head>
-fd
+
 
 
 
@@ -22,15 +22,6 @@ fd
 <?php
 require_once "database/conn.php";
 
-$sql = "SELECT * FROM Gebruikers";
-if ($result = $conn->query($sql)) {
-    while ($row = $result->fetch_row()) {
-        echo $row[0];
-        echo $row[1];
-        echo $row[2];
-    }
-
-}
 ?>
 
 </html>
