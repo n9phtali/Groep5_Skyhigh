@@ -144,6 +144,7 @@ require_once "database/conn.php";
             $number = mysqli_num_rows($result);
 
             if ($number >= 1){
+                session_start();
                 $_SESSION['login'] = true;
                 $_SESSION['email'] = $dbemail;
                 header ("location: index.php");

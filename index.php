@@ -14,21 +14,21 @@
 
     />
 </head>
-fd
+
 
 
 
 </body>
 <?php
 require_once "database/conn.php";
+session_start();
+if (isset($_SESSION['login'])) {
+    echo "welkom ".$_SESSION['email'];
+    ?>
+    <a href="logout.php">logout</a>
+    <?php
 
-$sql = "SELECT * FROM Gebruikers";
-if ($result = $conn->query($sql)) {
-    while ($row = $result->fetch_row()) {
-        echo $row[0];
-        echo $row[1];
-        echo $row[2];
-    }
+
 
 }
 ?>
