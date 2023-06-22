@@ -7,18 +7,15 @@
     <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-<div class="account">
-    <div class="Gegevens">
-         <a href="Gegevens_weizigen.php">Account gegevens</a>
-    </div>
-    <div class="vluchten">
-        <a href="#"> Mijn vluchten</a>
-    </div>
-    <div class="verwijderen">
-        <a href="#">Accountverwijderen</a>
-    </div>
+<div class="gebruikersnaam">
+    <a href="#"> Gebruikersnaam weizigen</a>
 
+    <div class="wachtwoord">
+    <a href="#"> Wachtwoord weizigen</a></div>
 
+    <div class="email">
+        <a href="#">Email weizigen</a>
+    </div>
 
 </div>
 </body>
