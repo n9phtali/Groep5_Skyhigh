@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62d0f66c-1208-42e5-b9d2-29e54f8bf5b9" name="Changes" comment="logout aan navbar toegevoegd wanneer je ingelogd bent">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/conn.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/conn.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/home.php" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,12 +80,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687335727361</updated>
     </task>
-    <task id="LOCAL-00004" summary="logout aan navbar toegevoegd wanneer je ingelogd bent">
-      <created>1687336717484</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1687336717484</updated>
+
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
@@ -99,6 +91,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added logout.php" />
     <MESSAGE value="logout aan navbar toegevoegd wanneer je ingelogd bent" />
-    <option name="LAST_COMMIT_MESSAGE" value="logout aan navbar toegevoegd wanneer je ingelogd bent" />
+    <MESSAGE value="Added page account gegevens" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added page account gegevens" />
   </component>
 </project>
