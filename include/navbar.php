@@ -10,7 +10,7 @@
         session_start();
         if (isset($_SESSION['login'])) {
             ?>
-            <li><a href="Login_Signup.php">Account</a></li>
+            <li><a href="account_gegevens.php">Account</a></li>
             <li><a href="logout.php">logout</a></li>
             <?php
 
