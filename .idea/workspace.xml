@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62d0f66c-1208-42e5-b9d2-29e54f8bf5b9" name="Changes" comment="logout aan navbar toegevoegd wanneer je ingelogd bent">
-      <change afterPath="$PROJECT_DIR$/css/contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/success.php" afterDir="false" />
+    <list default="true" id="62d0f66c-1208-42e5-b9d2-29e54f8bf5b9" name="Changes" comment="contact pagina vernieuwd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/Login_signup.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Login_signup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/success.php" beforeDir="false" afterPath="$PROJECT_DIR$/success.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687336717484</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="contact pagina vernieuwd">
+      <created>1687770980217</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687770980217</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added logout.php" />
     <MESSAGE value="logout aan navbar toegevoegd wanneer je ingelogd bent" />
-    <option name="LAST_COMMIT_MESSAGE" value="logout aan navbar toegevoegd wanneer je ingelogd bent" />
+    <MESSAGE value="contact pagina vernieuwd" />
+    <option name="LAST_COMMIT_MESSAGE" value="contact pagina vernieuwd" />
   </component>
 </project>
