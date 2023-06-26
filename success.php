@@ -1,7 +1,5 @@
-
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/html">
-<body>
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -14,18 +12,17 @@
 
     />
 </head>
+<body>
+<?php include'include/navbar.php';?>
+<section id="informatie">
+    <h1 class="headings">SUCCESS</h1>
+    <?php
+    echo "bedankt voor uw bericht ";
+    echo $_SESSION['email'];
+    echo " wij zullen zo spoedig mogelijk antwoord versturen"
+    ?>
 
-
-
-
+</section>
 </body>
-<?php
-require_once "database/conn.php";
-
-?>
-
 </html>
-
-<?php include 'include/navbar.php';
-include 'include/home.php';
 

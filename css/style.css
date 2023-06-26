@@ -180,6 +180,7 @@ html {
 
 /* contact section */
 #contact {
+    text-align: center;
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
@@ -219,3 +220,4 @@ html {
     cursor: pointer;
     box-shadow: 0 0 10px white;
 }
+
