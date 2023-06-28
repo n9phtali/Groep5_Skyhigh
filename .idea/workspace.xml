@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62d0f66c-1208-42e5-b9d2-29e54f8bf5b9" name="Changes" comment="contact pagina vernieuwd">
-      <change afterPath="$PROJECT_DIR$/Email.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gebruikersnaam.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wachtwoord_weizigen.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/account_gegevens.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gegevens_weizigen.php" beforeDir="false" afterPath="$PROJECT_DIR$/Gegevens_weizigen.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account_gegevens.php" beforeDir="false" afterPath="$PROJECT_DIR$/account_gegevens.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,13 +14,7 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CSS File" />
-      </list>
-    </option>
-  </component>
+
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -48,8 +34,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Nizar&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
@@ -59,7 +44,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh\css" />
+
       <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh" />
     </key>
   </component>
@@ -98,21 +83,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687335727361</updated>
     </task>
-    <task id="LOCAL-00004" summary="logout aan navbar toegevoegd wanneer je ingelogd bent">
-      <created>1687336717484</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1687336717484</updated>
-    </task>
-    <task id="LOCAL-00005" summary="contact pagina vernieuwd">
-      <created>1687770980217</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1687770980217</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +92,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added logout.php" />
     <MESSAGE value="logout aan navbar toegevoegd wanneer je ingelogd bent" />
-    <MESSAGE value="contact pagina vernieuwd" />
-    <option name="LAST_COMMIT_MESSAGE" value="contact pagina vernieuwd" />
+
   </component>
 </project>

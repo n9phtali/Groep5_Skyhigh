@@ -15,7 +15,7 @@
 <body>
 <?php include'include/navbar.php';?>
 <section id="team">
-    <h1 class="headings">TEAM</h1>
+    <h1 class="headings">MEDIA</h1>
     <div class="gallery">
         <img src="./img/SCHLEICHER_ASK_21_vr.jpg" alt="" />
         <img src="./img/1small.jpg" alt="" />
