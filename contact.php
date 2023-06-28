@@ -26,7 +26,7 @@ require_once "database/conn.php";
                         required=""
                 />
                 <input
-                        type="text"
+                        type="email"
                         name="Email"
                         placeholder="email"
                         required=""
@@ -42,6 +42,7 @@ require_once "database/conn.php";
                 <input type="hidden" name="login" value="signup">
                 <button>Stuur Bericht</button>
             </form>
+            <p>hello</p>
             <?php
             if ($_SERVER['REQUEST_METHOD'] == "POST") {
                 if ($_POST['login'] == "signup") {

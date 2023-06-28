@@ -17,7 +17,7 @@ require_once "database/conn.php";
 
         <div class="signup">
             <form method="POST">
-                <label for="chk" aria-hidden="true">Sign up</label>
+                <label for="chk" aria-hidden="true">Registreren</label>
                 <input
                         type="text"
                         name="Gebruikersnaam"
@@ -50,7 +50,7 @@ require_once "database/conn.php";
                 />
 
                 <input type="hidden" name="login" value="signup">
-                <button>Sign up</button>
+                <button>registreer</button>
             </form>
             <?php
             if($_SERVER['REQUEST_METHOD'] == "POST"){
@@ -148,10 +148,13 @@ require_once "database/conn.php";
 
             $dbemail = mysqli_real_escape_string($conn, $email);
             $dbWachtwoord = mysqli_real_escape_string($conn, $wachtwoord);
+            $dbvoornaam = mysqli_real_escape_string($conn, $voornaam);
 
             $dbWachtwoord = sha1($dbWachtwoord);
 
             $sql = "SELECT *  FROM gebruikers WHERE email = '$dbemail' AND Wachtwoord = '$dbWachtwoord'";
+
+
 
             $result = mysqli_query($conn, $sql);
             $number = mysqli_num_rows($result);
