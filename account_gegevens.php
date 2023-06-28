@@ -13,14 +13,12 @@
 
     <div class="row">
         <div class="box">
-            <img src="./img/Gliding_pictogram.svg.png" alt="" />
             <a href="Gegevens_weizigen.php" class="headings">
                 Gegevens
             </a>
-            <a href="#" class=headings>
-                Account verwijderen
-            </a>
+
         </div>
+
 
 
     </div>

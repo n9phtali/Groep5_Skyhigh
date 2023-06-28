@@ -13,12 +13,12 @@ require_once "database/conn.php";
     <title>Sky High</title>
 </head>
 <body>
+<?php include 'include/navbar.php'; ?>
 <div class="container">
 
 
 </div>
 <main>
-    <h>LEDENLIJST</h>
     <!DOCTYPE html>
     <html>
     <head>
@@ -54,7 +54,7 @@ require_once "database/conn.php";
             .team-member .info {
 
                 flex-basis: 27%;
-                background-color: rgb(0,0,0,0.1);
+                background-color: rgba(48, 55, 56, 0.51);
                 /*background-color: blue;*/
                 border-radius: 10px;
                 margin-bottom: 30px;
