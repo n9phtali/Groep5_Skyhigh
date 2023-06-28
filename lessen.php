@@ -1,7 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Lessen</title>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
     <style>
         table {
             width: 100%;
@@ -22,11 +27,8 @@
             margin-bottom: 20px;
         }
     </style>
-</head>
 <body>
-<h1>Lessen</h1>
-
-<table id="class-schedule">
+<div class="schedule"
     <tr>
         <th>Dag</th>
         <th>Tijd</th>
@@ -36,13 +38,17 @@
         <th>Telefoonnummer</th>
     </tr>
     <tr>
-        <td>Mandag</td>
+        <td>Maandag</td>
         <td>10:00 - 12:00</td>
         <td>Yhaezly Geyteman</td>
         <td>Luchtveld A</td>
         <td>yahezlygeyteman@gmail.com</td>
-        <td>0696969699696</td>
+        <td>0696969699696</td
     </tr>
+<
+<h1>Lessen</h1>
+
+<table id="class-schedule">
     <tr>
         <td>Woensdag</td>
         <td>14:00 - 16:00</td>

@@ -15,13 +15,6 @@ require_once "database/conn.php";
 <body>
 <div class="container">
 
-    <style>
-        body,
-        h1,
-        p {
-            color:white;
-        }
-    </style>
 
 </div>
 <main>
