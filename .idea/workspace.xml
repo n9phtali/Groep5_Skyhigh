@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62d0f66c-1208-42e5-b9d2-29e54f8bf5b9" name="Changes" comment="small changes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessen.php" beforeDir="false" afterPath="$PROJECT_DIR$/lessen.php" afterDir="false" />
+    <list default="true" id="62d0f66c-1208-42e5-b9d2-29e54f8bf5b9" name="Changes" comment="lessen.php veranderd en lessen.css aangemaakt">
+      <change beforePath="$PROJECT_DIR$/include/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/navbar.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
