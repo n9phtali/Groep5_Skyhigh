@@ -8,13 +8,13 @@
 </head>
 <body>
 <div class="gebruikersnaam">
-    <a href="#"> Gebruikersnaam weizigen</a>
+    <a href="#"> Gebruikersnaam wijzigen</a>
 
     <div class="wachtwoord">
-    <a href="#"> Wachtwoord weizigen</a></div>
+    <a href="#"> Wachtwoord wijzigen</a></div>
 
     <div class="email">
-        <a href="#">Email weizigen</a>
+        <a href="#">Email wijzigen</a>
     </div>
 
 </div>
