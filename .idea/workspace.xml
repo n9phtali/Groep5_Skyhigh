@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62d0f66c-1208-42e5-b9d2-29e54f8bf5b9" name="Changes" comment="small changes">
+    <list default="true" id="62d0f66c-1208-42e5-b9d2-29e54f8bf5b9" name="Changes" comment="lessen.php veranderd en lessen.css aangemaakt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/navbar.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lessen.php" beforeDir="false" afterPath="$PROJECT_DIR$/lessen.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +23,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php_installation_&lt;version&gt;" />
   <component name="ProjectId" id="2RHRNNYTLG0bSi3uQrjVhZYPZ38" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
@@ -72,13 +74,14 @@
       <workItem from="1687332987053" duration="10514000" />
       <workItem from="1687418693350" duration="1005000" />
       <workItem from="1687419727375" duration="3561000" />
+      <workItem from="1687952228705" duration="568000" />
     </task>
-    <task id="LOCAL-00001" summary="added logout.php">
-      <created>1687334252769</created>
+    <task id="LOCAL-00001" summary="lessen.php veranderd en lessen.css aangemaakt">
+      <created>1687951125494</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1687334252769</updated>
+      <updated>1687951125494</updated>
     </task>
     <task id="LOCAL-00002" summary="added logout.php">
       <created>1687334291376</created>
@@ -94,6 +97,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687335727361</updated>
     </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,5 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added logout.php" />
     <MESSAGE value="logout aan navbar toegevoegd wanneer je ingelogd bent" />
+    <MESSAGE value="lessen.php veranderd en lessen.css aangemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="lessen.php veranderd en lessen.css aangemaakt" />
   </component>
 </project>
