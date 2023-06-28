@@ -5,7 +5,7 @@ require_once "database/conn.php";
 <html lang="en">
 <head>
     <script src="https://kit.fontawesome.com/87a9ed9bc2.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/ledenlijst.css">
     <meta charset="UTF-8">
     <meta name="description" content="Content">
     <meta name="keywords" content="Keywords">
@@ -14,7 +14,14 @@ require_once "database/conn.php";
 </head>
 <body>
 <div class="container">
-<?php include_once 'include/index.php'; ?>
+
+    <style>
+        body,
+        h1,
+        p {
+            color:white;
+        }
+    </style>
 
 </div>
 <main>
@@ -22,10 +29,10 @@ require_once "database/conn.php";
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Team Pagina</title>
+        <title>Ledenlijst</title>
         <style>
             body{
-                background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.airbus.com%2Fen%2Fnewsroom%2Fpress-releases%2F2018-09-airbus-perlan-mission-ii-glider-soars-to-76000-feet-to-break-own&psig=AOvVaw2IcZpJRVXEHArGpkuqtz0b&ust=1687859762214000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPi9493V4P8CFQAAAAAdAAAAABAE");
+                background-image:
             }
             /*.team-container {
                             display: flex;
@@ -48,7 +55,7 @@ require_once "database/conn.php";
                 flex-wrap: wrap;
             }
             .info:hover{
-                background-color: #0ed8ee;
+                background-color: rgba(14, 216, 238, 0.74);
             }
 
             .team-member .info {
@@ -143,19 +150,15 @@ require_once "database/conn.php";
                 ?>
 
                 <div class="info">
-                    <img src="img/pdf.png" alt="Foto" width="200">
-                    <h5><?php echo $voornaam; ?> <?php echo $tussenvoegsel; ?> <?php echo $achternaam; ?></h5>
+                    <img src="img/Default_pfp.svg.png" alt="Foto" width="200">
+                    <h5><?php echo $voornaam; ?><?php echo $tussenvoegsel ?> ?></h5>
 
 
                     <!--                <button onclick="showInfo(this)">Meer informatie</button>-->
                     <p><?php echo $email; ?></p>
                     <p><?php echo $bio; ?></p>
 
-                    <ul class="social-icons">
-                        <li><a href="https://www.linkedin.com/janesmith" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
-                        </li>
-                        <li><a href="https://www.twitter.com/janesmith" target="_blank"><i class="fab fa-twitter"></i></a>
-                        </li>
+
                         <!-- Voeg hier meer social media links toe -->
                     </ul>
                 </div>
