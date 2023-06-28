@@ -3,22 +3,27 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Contact</title>
-    <link rel="stylesheet" href="css/style.css" />
+    <title>Zweefvliegtuig club</title>
+    <link rel="stylesheet" href="css/account_gegevens.css" />
+
 </head>
 <body>
-<div class="account">
-    <div class="Gegevens">
-         <a href="Gegevens_weizigen.php">Account gegevens</a>
-    </div>
-    <div class="vluchten">
-        <a href="#"> Mijn vluchten</a>
-    </div>
-    <div class="verwijderen">
-        <a href="#">Accountverwijderen</a>
-    </div>
+<?php include'include/navbar.php';?>
+<section id="informatie">
+
+    <div class="row">
+        <div class="box">
+            <img src="./img/Gliding_pictogram.svg.png" alt="" />
+            <a href="Gegevens_weizigen.php" class="headings">
+                Gegevens
+            </a>
+            <a href="#" class=headings>
+                Account verwijderen
+            </a>
+        </div>
 
 
-
-</div>
+    </div>
+</section>
 </body>
+</html>
