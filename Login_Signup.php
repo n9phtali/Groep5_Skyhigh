@@ -98,7 +98,7 @@ require_once "database/conn.php";
                             '$geboortedatum')";
 
                     $result = mysqli_query($conn, $sql);
-                    header("location: index.php");
+                    header("location: login_Signup.php");
                     if (!$result) {
                         echo "Query error";
                         mysqli_close($conn);

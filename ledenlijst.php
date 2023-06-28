@@ -134,22 +134,20 @@ require_once "database/conn.php";
         if ($result = $conn->query($sql)) {
             while ($row = $result->fetch_row()) {
                 $voornaam = $row[1];
-                $tussenvoegsel = $row[2];
                 $achternaam = $row[3];
-                $email = $row[4];
-                $bio = $row[5]
+
 
 
                 ?>
 
                 <div class="info">
                     <img src="img/Default_pfp.svg.png" alt="Foto" width="200">
-                    <h5><?php echo $voornaam; ?><?php echo $tussenvoegsel ?> ?></h5>
+                    <h5><?php echo $voornaam; ?>
+
+                        </h5>
 
 
                     <!--                <button onclick="showInfo(this)">Meer informatie</button>-->
-                    <p><?php echo $email; ?></p>
-                    <p><?php echo $bio; ?></p>
 
 
                         <!-- Voeg hier meer social media links toe -->
