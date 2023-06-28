@@ -1,115 +1,65 @@
 <!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/html">
+<html>
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/lessen.css" />
     <title>Lessen</title>
-    <link rel="stylesheet" href="css/style.css" />
-</head>
-
     <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
+        .class-schedule {
+            margin-bottom: 20px;
         }
 
-        th, td {
-            padding: 8px;
-            text-align: left;
-            border-bottom: 1px solid #ddd;
+        .class-day {
+            font-weight: bold;
+            margin-bottom: 10px;
         }
 
-        th {
-            background-color: #f2f2f2;
+        .class-details {
+            margin-bottom: 5px;
         }
 
         form {
-            margin-bottom: 20px;
+            margin-top: 20px;
         }
     </style>
+</head>
 <body>
-<div class="schedule"
-    <tr>
-        <th>Dag</th>
-        <th>Tijd</th>
-        <th>Instructeur</th>
-        <th>Locatie</th>
-        <th>E-mail</th>
-        <th>Telefoonnummer</th>
-    </tr>
-    <tr>
-        <td>Maandag</td>
-        <td>10:00 - 12:00</td>
-        <td>Yhaezly Geyteman</td>
-        <td>Luchtveld A</td>
-        <td>yahezlygeyteman@gmail.com</td>
-        <td>0696969699696</td
-    </tr>
-<
-<h1>Lessen</h1>
+<?php include'include/navbar.php';?>
 
-<table id="class-schedule">
-    <tr>
-        <td>Woensdag</td>
-        <td>14:00 - 16:00</td>
-        <td>Jane Smith</td>
-        <td>Luchtveld B</td>
-        <td>janesmith123@gmail.com</td>
-        <td>0653678183764</td>
-    </tr>
-    <tr>
-        <td>Vrijdag</td>
-        <td>9:00 - 11:00</td>
-        <td>Michael Johnson</td>
-        <td>Luchtveld C</td>
-        <td>mjbutnotthepedo@gmail.com</td>
-        <td>06193578695</td>
-    </tr>
-</table>
+<h1 style="text-align: center;">Lessen</h1>
 
-<h2>Plannen</h2>
-<form id="class-form">
-    <label for="day">Dag:</label>
-    <input type="text" id="day" required><br>
-    <label for="time">Tijd:</label>
-    <input type="text" id="time" required><br>
-    <label for="instructor">Instructeur:</label>
-    <input type="text" id="instructor" required><br>
-    <label for="location">Locatie:</label>
-    <input type="text" id="location" required><br>
-    <input type="submit" value="Plannen">
+<div class="class-schedule" id="class-schedule">
+    <div class="class-day">Maandag</div>
+    <ul>
+        <li class="class-details">10:00  - 12:00 , Yheazly Geyteman, yhaezlygeyteman@gmail.com, 0678739494 Vliegveld A</li>
+    </ul>
+    <div class="class-day">Woensdag</div>
+    <ul>
+        <li class="class-details">14:00  - 16:00 , Nizar Naphtali, niznaph@gmail.com, 0688919384 Vliegveld B</li>
+    </ul>
+    <div class="class-day">Vrijdag</div>
+    <ul>
+        <li class="class-details">9:00  - 11:00 , Michael Johnson, mj@gmail.com 06788873489 Vliegveld C</li>
+    </ul>
+</div>
+</center>
+
+<h2>Contact</h2>
+<form id="contact-form">
+    <label for="name">Naam:</label>
+    <input type="text" id="name" required><br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" required><br>
+    <label for="message">Bericht:</label>
+    <textarea id="message" required></textarea><br>
+    <input type="submit" value="Stuur bericht">
 </form>
 
-<script>
-
-    function addClass() {
-        event.preventDefault();
-
-
-        const day = document.getElementById('day').value;
-        const time = document.getElementById('time').value;
-        const instructor = document.getElementById('instructor').value;
-        const location = document.getElementById('location').value;
-
-
-        const newRow = document.createElement('tr');
-        newRow.innerHTML = `
-                <td>${day}</td>
-                <td>${time}</td>
-                <td>${instructor}</td>
-                <td>${location}</td>
-            `;
-
-
-        const table = document.getElementById('class-schedule');
-        table.appendChild(newRow);
-
-
-        document.getElementById('class-form').reset();
+<style>
+    /* Add this style block to change text color to white */
+    body,
+    h1,
+    p {
+        color: #F5F5F5;
     }
-
-
-    document.getElementById('class-form').addEventListener('submit', addClass);
-</script>
-</body>
-</html>
+</style>
+</head>

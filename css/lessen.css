@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    font-family: 'Jost', sans-serif;
+    background-image: url("https://t3.ftcdn.net/jpg/01/02/64/28/360_F_102642850_Mca9lTRDH60DQin39YwCF5Jzd15lcdoo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: sticky;
+    top: 0;
+}
+.navbar ul {
+    display: flex;
+    list-style: none;
+    margin: 20px 0px;
+}
+.navbar ul li {
+    font-family: Century;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+.navbar ul li a {
+    color: white;
+    padding: 8px 25px;
+    transition: all 0.5s ease;
+}
+.navbar ul li a:hover {
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 10px white;
+}
+
+h1 {
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.55);
+}
+
+div {
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.55);
+}
+
+
+h2 {
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.55);
+}
+
+label {
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.55);
+}
