@@ -4,6 +4,7 @@
         <li><a href="over_ons.php">Over ons</a></li>
         <li><a href="team.php">Media</a></li>
         <li><a href="contact.php">Contact</a></li>
+        <li><a href="ledenlijst.php">Ledenlijst</a></li>
 
         <?php
         session_start();

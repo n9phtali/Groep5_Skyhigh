@@ -13,12 +13,12 @@ require_once "database/conn.php";
     <title>Sky High</title>
 </head>
 <body>
+<?php include 'include/navbar.php'; ?>
 <div class="container">
 
 
 </div>
 <main>
-    <h>LEDENLIJST</h>
     <!DOCTYPE html>
     <html>
     <head>
