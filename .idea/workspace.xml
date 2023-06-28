@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-
+    <list default="true" id="62d0f66c-1208-42e5-b9d2-29e54f8bf5b9" name="Changes" comment="small changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/navbar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ledenlijst.php" beforeDir="false" afterPath="$PROJECT_DIR$/ledenlijst.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.php" beforeDir="false" afterPath="$PROJECT_DIR$/team.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +19,7 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -34,6 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
@@ -43,6 +50,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+
       <recent name="C:\Users\mrnop\PhpstormProjects\Groep5_Skyhigh" />
     </key>
   </component>
@@ -81,8 +89,6 @@
       <updated>1687335727361</updated>
     </task>
 
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,7 +97,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added logout.php" />
     <MESSAGE value="logout aan navbar toegevoegd wanneer je ingelogd bent" />
-    <MESSAGE value="Added page account gegevens" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added page account gegevens" />
+
   </component>
 </project>
