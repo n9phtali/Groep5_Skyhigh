@@ -14,7 +14,6 @@ require_once "database/conn.php";
 </head>
 <body>
 <div class="container">
-<?php include_once 'include/index.php'; ?>
 
 </div>
 <main>

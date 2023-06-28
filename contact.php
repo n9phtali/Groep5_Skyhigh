@@ -42,7 +42,7 @@ require_once "database/conn.php";
                 <input type="hidden" name="login" value="signup">
                 <button>Stuur Bericht</button>
             </form>
-            <p>hello</p>
+            <p><center>Wil je ons liever telefonisch bereiken? dan kan dat op het volgende telefoonnummer : 0612341111</center></p>
             <?php
             if ($_SERVER['REQUEST_METHOD'] == "POST") {
                 if ($_POST['login'] == "signup") {
