@@ -50,8 +50,9 @@
     <label for="email">Email:</label>
     <input type="email" id="email" required><br>
     <label for="message">Bericht:</label>
-    <textarea id="message" required></textarea><br>
+    <textarea id="message" required placeholder="Vul volledig op welke tijd en datum u wilt lesvolgen en met hoveel mensen."></textarea><br>
     <input type="submit" value="Stuur bericht">
+
 </form>
 
 <style>
